@@ -1,4 +1,4 @@
 # new-demo
 my first Git repository.
 <br>
-Author- Rohit Singh
+Author- Rohit Singh (beginner)
